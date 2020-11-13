@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\lab6.12\Debug\lab6.12.exe
+C:\Users\admin\source\repos\lab6.12\Debug\lab6.12.pdb
